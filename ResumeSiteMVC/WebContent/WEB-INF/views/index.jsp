@@ -31,7 +31,7 @@
     <header class="header">
         <div class="top-bar container-fluid">
             <div class="actions">
-                <a class="btn d-none d-md-inline-block" href="mailto:someone@example.com"><i class="fa fa-paper-plane" aria-hidden="true"></i> Hire Me</a>
+                <a class="btn d-none d-md-inline-block" href="rsbnq6@yahoo.com"><i class="fa fa-paper-plane" aria-hidden="true"></i> Hire Me</a>
                 <a class="btn" href="#"><i class="fa fa-download" aria-hidden="true"></i> Download My Resume</a>
             </div><!--//actions-->
             <ul class="social list-inline">
@@ -57,8 +57,8 @@
         <div class="contact-info">
             <div class="container text-center">
                 <ul class="list-inline">
-                    <li class="email list-inline-item"><i class="fa fa-envelope"></i><a href="mailto:someone@example.com">james.doe@website.com</a></li>
-                    <li class="list-inline-item"><i class="fa fa-phone"></i> <a href="tel: 0123456789">0123 456 7890</a></li>
+                    <li class="email list-inline-item"><i class="fa fa-envelope"></i><a href="mailto:someone@example.com">rsbnq6@yahoo.com</a></li>
+                    <li class="list-inline-item"><i class="fa fa-phone"></i> <a href="tel: 0123456789">314-712-2355</a></li>
                     <li class="website list-inline-item"><i class="fa fa-globe"></i><a href="#" target="_blank">portfoliosite.com</a></li>
                 </ul>
             </div><!--//container-->
@@ -87,12 +87,12 @@
             <div class="timeline">
                 <div class="item">
                     <div class="work-place">
-                        <h3 class="place">Google</h3>
-                        <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>Mountain View</div>
+                        <h3 class="place">Scottrade</h3>
+                        <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>Broomfield, CO</div>
                     </div>
                     <div class="job-meta">
-                        <div class="title">Senior Software Engineer</div>
-                        <div class="time">2016 - Present</div>
+                        <div class="title">Financial Services Rep II</div>
+                        <div class="time">2011 - 2018</div>
                     </div><!--//job-meta-->
                     <div class="job-desc">
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p> 
@@ -106,12 +106,12 @@
                 
                 <div class="item">
                     <div class="work-place">
-                        <h3 class="place">Apple</h3>
-                        <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>New York</div>
+                        <h3 class="place">Scottrade</h3>
+                        <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>St Louis, MO</div>
                     </div>
                     <div class="job-meta">
-                        <div class="title">Lead Software Engineer</div>
-                        <div class="time">2015 - 2016</div>
+                        <div class="title">Financial Services Rep I</div>
+                        <div class="time">2009 - 2011</div>
                     </div><!--//job-meta-->
                     <div class="job-desc">
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p> 
@@ -120,12 +120,12 @@
                 
                 <div class="item">
                     <div class="work-place">
-                        <h3 class="place">Twitter</h3>
-                        <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>London</div>
+                        <h3 class="place">Scottrade</h3>
+                        <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>St Louis, MO</div>
                     </div>
                     <div class="job-meta">
-                        <div class="title">Software Engineer</div>
-                        <div class="time">2013 - 2015</div>
+                        <div class="title">Mutual Fund Networking</div>
+                        <div class="time">2006 - 2009</div>
                     </div><!--//job-meta-->
                     <div class="job-desc">
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p> 
@@ -153,7 +153,7 @@
         <section id="education-section" class="education-section section">
             <h2 class="section-title">Education</h2>
             <div class="row">
-                <div class="item col-12 col-md-4">
+                <div class="item col-12 col-md-3">
                     <div class="item-inner">
                         <h3 class="degree">Bachelors Finance</h3>
                         <div class="education-body">
@@ -165,7 +165,7 @@
                         </div>
                     </div><!--//item-inner-->
                 </div><!--//item-->
-                <div class="item col-12 col-md-4">
+                <div class="item col-12 col-md-3">
                     <div class="item-inner">
                         <h3 class="degree">MS Data Analytics</h3>
                         <div class="education-body">
@@ -177,7 +177,19 @@
                         </div>
                     </div><!--//item-inner-->
                 </div><!--//item-->
-                <div class="item col-12 col-md-4">
+                <div class="item col-12 col-md-3">
+                    <div class="item-inner">
+                        <h3 class="degree">OCP Java Programmer I</h3>
+                        <div class="education-body">
+                            Oracle Java Certification
+                        </div><!--//education-body-->
+                        <div class="time">2018</div>
+                        <div class="desc">
+                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
+                        </div>
+                    </div><!--//item-inner-->
+                </div><!--//item-->
+                 <div class="item col-12 col-md-3">
                     <div class="item-inner">
                         <h3 class="degree">Skill Distillery</h3>
                         <div class="education-body">
@@ -351,14 +363,14 @@
             <h2 class="section-title">Portfolio</h2>
             <ul id="filters" class="filters clearfix">
                 <li class="type active" data-filter="*">All</li>
-                <li class="type" data-filter=".backend">Back-end</li>
-                <li class="type" data-filter=".frontend">Front-end</li>
+                <li class="type" data-filter=".backend">Web Development</li>
+                <li class="type" data-filter=".frontend">Data Analytics</li>
             </ul><!--//filters-->
             <div class="items-wrapper isotope row">
                 <div class="item frontend col-lg-3 col-6">
                     <div class="item-inner">
                         <figure class="figure">
-                            <img class="img-fluid" src="assets/images/portfolio/portfolio-1.jpg" alt="" />
+                            <img class="img-fluid" src="images/portfolio/portfolio-1.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
                             <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
@@ -371,7 +383,7 @@
                 <div class="item backend col-lg-3 col-6">
                     <div class="item-inner">
                         <figure class="figure">
-                            <img class="img-fluid" src="assets/images/portfolio/portfolio-2.jpg" alt="" />
+                            <img class="img-fluid" src="images/portfolio/portfolio-2.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
                             <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
@@ -384,7 +396,7 @@
                 <div class="item backend frontend col-lg-3 col-6">
                     <div class="item-inner">
                         <figure class="figure">
-                            <img class="img-fluid" src="assets/images/portfolio/portfolio-3.jpg" alt="" />
+                            <img class="img-fluid" src="images/portfolio/portfolio-3.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
                             <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
@@ -397,7 +409,7 @@
                 <div class="item frontend col-lg-3 col-6">
                     <div class="item-inner">
                         <figure class="figure">
-                            <img class="img-fluid" src="assets/images/portfolio/portfolio-4.jpg" alt="" />
+                            <img class="img-fluid" src="images/portfolio/portfolio-4.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
                             <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
@@ -410,7 +422,7 @@
                 <div class="item backend col-lg-3 col-6">
                     <div class="item-inner">
                         <figure class="figure">
-                            <img class="img-fluid" src="assets/images/portfolio/portfolio-5.jpg" alt="" />
+                            <img class="img-fluid" src="images/portfolio/portfolio-5.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
                             <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
@@ -423,7 +435,7 @@
                 <div class="item backend col-lg-3 col-6">
                     <div class="item-inner">
                         <figure class="figure">
-                            <img class="img-fluid" src="assets/images/portfolio/portfolio-6.jpg" alt="" />
+                            <img class="img-fluid" src="images/portfolio/portfolio-6.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
                             <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
@@ -437,7 +449,7 @@
                 <div class="item frontend col-lg-3 col-6">
                     <div class="item-inner">
                         <figure class="figure">
-                            <img class="img-fluid" src="assets/images/portfolio/portfolio-7.jpg" alt="" />
+                            <img class="img-fluid" src="images/portfolio/portfolio-7.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
                             <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
@@ -451,7 +463,7 @@
                 <div class="item frontend backend col-lg-3 col-6">
                     <div class="item-inner">
                         <figure class="figure">
-                            <img class="img-fluid" src="assets/images/portfolio/portfolio-8.jpg" alt="" />
+                            <img class="img-fluid" src="images/portfolio/portfolio-8.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
                             <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>

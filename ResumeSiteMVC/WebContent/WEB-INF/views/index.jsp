@@ -35,10 +35,10 @@
                 <a class="btn" href="#"><i class="fa fa-download" aria-hidden="true"></i> Download My Resume</a>
             </div><!--//actions-->
             <ul class="social list-inline">
-                <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                <li class="list-inline-item"><a href="https://www.linkedin.com/in/richard-blankenhorn-68210790" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                 <li class="list-inline-item"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                 <li class="list-inline-item"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                <li class="list-inline-item"><a href="#"><i class="fa fa-github-alt" aria-hidden="true"></i></a></li>
+                <li class="list-inline-item"><a href="https://github.com/RichardBlankenhorn" target="_blank"><i class="fa fa-github-alt" aria-hidden="true"></i></a></li>
                 <li class="list-inline-item"><a href="#"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
             </ul><!--//social-->
         </div><!--//top-bar-->
@@ -373,8 +373,8 @@
                             <img class="img-fluid" src="images/portfolio/portfolio-1.jpg" alt="" />
                         </figure>
                         <div class="content text-left">
-                            <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
-                            <div class="meta">AngularJS</div>
+                            <h3 class="sub-title"><a href="#">Kosovo Data Analysis</a></h3>
+                            <div class="meta">R & R Markdown<p>In this project, data was analyzed</p></div>
                             <div class="action"><a href="#">View on Github</a></div>
                         </div><!--//content-->    
                         <a class="link-mask" href="#"></a>              

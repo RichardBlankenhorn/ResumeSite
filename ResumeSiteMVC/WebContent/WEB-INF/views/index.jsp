@@ -344,12 +344,12 @@
 					<div class="item col-12 col-md-4">
 						<div class="item-inner">
 							<div class="chart-easy-pie text-center">
-								<div class="chart-theme-1 chart" data-percent="98">
-									<span>98</span>%
+								<div class="chart-theme-1 chart" data-percent="40">
+									<span>40</span>%
 								</div>
 							</div>
 							<h4 class="skill-name">Java</h4>
-							<div class="level">Expert, 8 years</div>
+							<div class="level">Beginner, 1 year</div>
 							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
 								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 								Cum sociis natoque penatibus et magnis dis parturient</div>
@@ -360,12 +360,12 @@
 					<div class="item col-12 col-md-4">
 						<div class="item-inner">
 							<div class="chart-easy-pie text-center">
-								<div class="chart-theme-1 chart" data-percent="90">
-									<span>90</span>%
+								<div class="chart-theme-1 chart" data-percent="30">
+									<span>30</span>%
 								</div>
 							</div>
 							<h4 class="skill-name">JavaScript & Angular</h4>
-							<div class="level">Expert, 8 years</div>
+							<div class="level">Beginner, 1 year</div>
 							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
 								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 								Cum sociis natoque penatibus et magnis dis parturient</div>
@@ -376,12 +376,12 @@
 					<div class="item col-12 col-md-4">
 						<div class="item-inner">
 							<div class="chart-easy-pie text-center">
-								<div class="chart-theme-1 chart" data-percent="85">
-									<span>85</span>%
+								<div class="chart-theme-1 chart" data-percent="60">
+									<span>60</span>%
 								</div>
 							</div>
-							<h4 class="skill-name">SQL</h4>
-							<div class="level">Advanced, 4 years</div>
+							<h4 class="skill-name">PL/SQL</h4>
+							<div class="level">Intermediate, 2 years</div>
 							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
 								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 								Cum sociis natoque penatibus et magnis dis parturient</div>
@@ -392,12 +392,12 @@
 					<div class="item col-12 col-md-4">
 						<div class="item-inner">
 							<div class="chart-easy-pie text-center">
-								<div class="chart-theme-1 chart" data-percent="85">
-									<span>85</span>%
+								<div class="chart-theme-1 chart" data-percent="60">
+									<span>60</span>%
 								</div>
 							</div>
 							<h4 class="skill-name">R</h4>
-							<div class="level">Advanced, 4 years</div>
+							<div class="level">Intermediate, 2 years</div>
 							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
 								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 								Cum sociis natoque penatibus et magnis dis parturient</div>
@@ -408,12 +408,12 @@
 					<div class="item col-12 col-md-4">
 						<div class="item-inner">
 							<div class="chart-easy-pie text-center">
-								<div class="chart-theme-1 chart" data-percent="85">
-									<span>85</span>%
+								<div class="chart-theme-1 chart" data-percent="50">
+									<span>50</span>%
 								</div>
 							</div>
 							<h4 class="skill-name">Python</h4>
-							<div class="level">Advanced, 4 years</div>
+							<div class="level">Intermediate, 2 years</div>
 							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
 								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 								Cum sociis natoque penatibus et magnis dis parturient</div>
@@ -424,12 +424,12 @@
 					<div class="item col-12 col-md-4">
 						<div class="item-inner">
 							<div class="chart-easy-pie text-center">
-								<div class="chart-theme-1 chart" data-percent="85">
-									<span>85</span>%
+								<div class="chart-theme-1 chart" data-percent="40">
+									<span>40</span>%
 								</div>
 							</div>
 							<h4 class="skill-name">SAS</h4>
-							<div class="level">Advanced, 4 years</div>
+							<div class="level">Beginner, 1 year</div>
 							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
 								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 								Cum sociis natoque penatibus et magnis dis parturient</div>

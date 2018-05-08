@@ -137,17 +137,32 @@
 					</div>
 					<!--//job-meta-->
 					<div class="job-desc">
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-							Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-							natoque penatibus et magnis dis parturient montes, nascetur
-							ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-							pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec,
-							vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a,
-							venenatis vitae, justo.</p>
+						<p></p>
 						<ul>
-							<li>Lorem ipsum dolor sit amet</li>
-							<li>Donec pede justo ante</li>
-							<li>Maecenas tempus tellus eget</li>
+							<li>Manage the option expiration report for short, unhedged
+								option positions in order to mitigate risk to Scottrade. This
+								weekly process has allowed Scottrade to reduce the risk to
+								clients and the company by monitoring short option positions due
+								to be assigned, analyzing risk potential and closing out high
+								risk positions.</li>
+							<br>
+							<li>Collaborate with senior management to develop a more
+								efficient phone routing system for the service center. This
+								involves researching and analyzing incorrectly routed calls to
+								determine why they were routed incorrectly and how the issue can
+								be resolved. This process has allowed Scottrade to better
+								service clients in that clients are directed to the appropriate
+								representative who is able to meet the clients need.</li>
+							<br>
+							<li>Manage a new interactive training manual for new hires,
+								which is designed to provide new hires with pertinent and easily
+								accessible information that is needed on a daily basis. This new
+								training manual has allowed new hires to grow in their roles
+								much faster and achieve a higher comfort level in the early
+								stages of their employment. This new manual has also cut back on
+								hold times for clients in that employees do not need to search
+								through our site or contact back office departments to obtain
+								answers.</li>
 						</ul>
 					</div>
 					<!--//job-desc-->
@@ -167,13 +182,37 @@
 					</div>
 					<!--//job-meta-->
 					<div class="job-desc">
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-							Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-							natoque penatibus et magnis dis parturient montes, nascetur
-							ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-							pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec,
-							vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a,
-							venenatis vitae, justo.</p>
+						<p></p>
+						<ul>
+							<li>Developed and implemented training for new hires. New
+								employees first receive training out of our headquarters and are
+								then provided with on the floor training, with representatives
+								such as myself, before they are on their own. Through
+								interactive role playing and one on one mentorship, new hires
+								are able to put their corporate training in to practice, develop
+								a better understanding of their roles and obtain a greater level
+								of confidence before they are put out on the floor.</li>
+							<br>
+							<li>As part of a written communication team, I have
+								developed chat and email blankets that are used when responding
+								to client questions, concerns or complaints. These blankets or
+								templates enable employees to respond to common questions but in
+								a very detailed and informative manner. These templates also
+								have cut down on research time and have allowed employees to
+								respond to a larger number of customer inquiries in a shorter
+								amount of time.</li>
+							<br>
+							<li>Proactively research and report erroneous procedures and
+								practices to upper management in order to obtain greater
+								efficiency. In many cases, there is a disconnect between service
+								center employees and back office employees with regard to
+								procedure and policy. This disconnect can lead to an unpleasant
+								customer experience and loss of business. By researching and
+								reporting this disconnect to upper management, communication
+								between front end and back office employees is enhanced, which
+								has lead to a better customer experience and greater efficiency
+								when processing customer requests.</li>
+						</ul>
 					</div>
 					<!--//job-desc-->
 				</div>
@@ -192,43 +231,38 @@
 					</div>
 					<!--//job-meta-->
 					<div class="job-desc">
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-							Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-							natoque penatibus et magnis dis parturient montes, nascetur
-							ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-							pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec,
-							vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a,
-							venenatis vitae, justo.</p>
+						<p></p>
+						<ul>
+							<li>Manage daily reports for mutual fund transfers,
+								networking and reconciliation. Efficiently managing these
+								reports has led to a higher turnaround in terms of processing
+								internal and external mutual fund transfers.</li>
+							<br>
+							<li>Proactively provide branch office and service center
+								employees with new or complex information pertaining to recent
+								mutual fund reorganizations or changes. When mutual fund
+								companies liquidate funds, process corporate actions or make
+								complex distributions, branch office and service center
+								employees have found it difficult to quickly find the needed
+								information to answer client questions about these corporate
+								actions or changes. Proactively providing this information cut
+								down on time spent on research, incoming call volume from branch
+								office and service center employees and has allowed these
+								employees to consistently provide a great customer experience.</li>
+							<br>
+							<li>Developed written procedures pertaining to the Mutual
+								Fund Networking position at Scottrade. These written procedures
+								not only helped new hires assimilate in to their roles, but also
+								played an integral role in the switch to Omnibus processing. By
+								developing these written procedures and presenting them to upper
+								management, management was able to easily answer questions about
+								our mutual fund networking procedures when meeting with third
+								party vendors related to the Omnibus switch.</li>
+						</ul>
 					</div>
 					<!--//job-desc-->
 				</div>
 				<!--//item-->
-
-				<div class="item">
-					<div class="work-place">
-						<h3 class="place">Startup Hub</h3>
-						<div class="location">
-							<i class="fa fa-map-marker" aria-hidden="true"></i>London
-						</div>
-					</div>
-					<div class="job-meta">
-						<div class="title">Founder &amp; Lead Developer</div>
-						<div class="time">2012 - 2013</div>
-					</div>
-					<!--//job-meta-->
-					<div class="job-desc">
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-							Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-							natoque penatibus et magnis dis parturient montes, nascetur
-							ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-							pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec,
-							vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a,
-							venenatis vitae, justo.</p>
-					</div>
-					<!--//job-desc-->
-				</div>
-				<!--//item-->
-
 			</div>
 			<!--//timeline-->
 
@@ -258,9 +292,10 @@
 						<div class="education-body">Dakota State University</div>
 						<!--//education-body-->
 						<div class="time">2015 - 2017</div>
-						<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-							adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-							Cum sociis natoque penatibus et magnis dis parturient</div>
+						<div class="desc">Masters in Data Analytics focusing on data
+							retrieval, data manipulation, data cleansing and statistical
+							learning methods. Technologies used include R, SAS, SQL and
+							Python.</div>
 					</div>
 					<!--//item-inner-->
 				</div>
@@ -271,22 +306,24 @@
 						<div class="education-body">Oracle Java Certification</div>
 						<!--//education-body-->
 						<div class="time">2018</div>
-						<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-							adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-							Cum sociis natoque penatibus et magnis dis parturient</div>
+						<div class="desc">Covers topics such as command-line Java
+							applications, Encapsulation, Inheritance and Polymorphism, Java
+							types, conditional statements and loops, manipulation of
+							collections, exception handling, Lambda expressions and Date/Time
+							API</div>
 					</div>
 					<!--//item-inner-->
 				</div>
 				<!--//item-->
 				<div class="item col-12 col-md-3">
 					<div class="item-inner">
-						<h3 class="degree">Skill Distillery</h3>
+						<h3 class="degree">The Skill Distillery</h3>
 						<div class="education-body">Java / JavaScript / Angular</div>
 						<!--//education-body-->
 						<div class="time">2018</div>
-						<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-							adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-							Cum sociis natoque penatibus et magnis dis parturient</div>
+						<div class="desc">Intensive full stack web development
+							bootcamp covering fundamentals of Java, JavaScript, Angular,
+							Amazon Web Services, JPA, Maven, Gradle, MVC and REST</div>
 					</div>
 					<!--//item-inner-->
 				</div>
@@ -567,7 +604,8 @@
 						<!--//content-->
 						<div class="action"
 							style="bottom: 30px; left: 30px; position: absolute;">
-							<a href="https://github.com/RichardBlankenhorn/stock_tweet_analysis"
+							<a
+								href="https://github.com/RichardBlankenhorn/stock_tweet_analysis"
 								style="color: white" target="_blank">View on Github</a>
 						</div>
 					</div>
@@ -616,11 +654,11 @@
 								<u>Java, Bootstrap, SpringMVC:</u>
 								<p>What's On Tap is a crowd-sourced app that allows
 									registered users to add breweries/beers and add/update/delete
-									comments for listed breweries and beers. In addition, Admin 
-									privileges were provided in order to delete breweries/beers and to 
-									delete or update comments from all users. This project utilized a 
-									Java, JPA, SpringMVC, Bootstrap, Gradle & Maven, MySQL and 
-									Amazon Web Services.</p>
+									comments for listed breweries and beers. In addition, Admin
+									privileges were provided in order to delete breweries/beers and
+									to delete or update comments from all users. This project
+									utilized a Java, JPA, SpringMVC, Bootstrap, Gradle & Maven,
+									MySQL and Amazon Web Services.</p>
 							</div>
 						</div>
 						<!--//content-->
@@ -647,7 +685,8 @@
 						<!--//content-->
 						<div class="action"
 							style="bottom: 30px; left: 30px; position: absolute;">
-							<a href="https://github.com/RichardBlankenhorn/stock_tweet_analysis"
+							<a
+								href="https://github.com/RichardBlankenhorn/stock_tweet_analysis"
 								style="color: white" target="_blank">View on Github</a>
 						</div>
 					</div>

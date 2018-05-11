@@ -65,13 +65,10 @@
 				<h1 class="name">Richard Blankenhorn</h1>
 				<div class="title">Java Developer / Data Analyst</div>
 				<div class="profile">
-					<p>Profile info goes here. Lorem ipsum dolor sit amet,
-						consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-						Aenean massa. Cum sociis natoque penatibus et magnis dis
-						parturient montes, nascetur ridiculus mus. Donec quam felis,
-						ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat
-						massa quis enim. Donec pede justo, fringilla vel, aliquet nec,
-						vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet.</p>
+					<p>I am looking to utilize my passion, graduate level education
+						and hands-on coding school experience to transition in to a career
+						in web development / data analytics while leveraging my brokerage
+						and customer service experience.</p>
 				</div>
 				<!--//profile-->
 			</div>
@@ -86,8 +83,6 @@
 						href="mailto:someone@example.com">rsbnq6@yahoo.com</a></li>
 					<li class="list-inline-item"><i class="fa fa-phone"></i> <a
 						href="tel: 0123456789">314-712-2355</a></li>
-					<li class="website list-inline-item"><i class="fa fa-globe"></i><a
-						href="#" target="_blank">portfoliosite.com</a></li>
 				</ul>
 			</div>
 			<!--//container-->
@@ -104,8 +99,6 @@
 							href="#education-section">Education</a></li>
 						<li class="nav-item"><a class="scrollto nav-link"
 							href="#skills-section">Skills</a></li>
-						<li class="nav-item"><a class="scrollto nav-link"
-							href="#testimonials-section">Testimonials</a></li>
 						<li class="nav-item"><a class="scrollto nav-link"
 							href="#portfolio-section">Portfolio</a></li>
 						<li class="nav-item"><a class="scrollto nav-link"
@@ -279,9 +272,7 @@
 							Columbia</div>
 						<!--//education-body-->
 						<div class="time">2002 - 2006</div>
-						<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-							adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-							Cum sociis natoque penatibus et magnis dis parturient</div>
+						<div class="desc"></div>
 					</div>
 					<!--//item-inner-->
 				</div>
@@ -292,10 +283,7 @@
 						<div class="education-body">Dakota State University</div>
 						<!--//education-body-->
 						<div class="time">2015 - 2017</div>
-						<div class="desc">Masters in Data Analytics focusing on data
-							retrieval, data manipulation, data cleansing and statistical
-							learning methods. Technologies used include R, SAS, SQL and
-							Python.</div>
+						<div class="desc"></div>
 					</div>
 					<!--//item-inner-->
 				</div>
@@ -306,11 +294,7 @@
 						<div class="education-body">Oracle Java Certification</div>
 						<!--//education-body-->
 						<div class="time">2018</div>
-						<div class="desc">Covers topics such as command-line Java
-							applications, Encapsulation, Inheritance and Polymorphism, Java
-							types, conditional statements and loops, manipulation of
-							collections, exception handling, Lambda expressions and Date/Time
-							API</div>
+						<div class="desc"></div>
 					</div>
 					<!--//item-inner-->
 				</div>
@@ -321,9 +305,7 @@
 						<div class="education-body">Java / JavaScript / Angular</div>
 						<!--//education-body-->
 						<div class="time">2018</div>
-						<div class="desc">Intensive full stack web development
-							bootcamp covering fundamentals of Java, JavaScript, Angular,
-							Amazon Web Services, JPA, Maven, Gradle, MVC and REST</div>
+						<div class="desc"></div>
 					</div>
 					<!--//item-inner-->
 				</div>
@@ -350,9 +332,7 @@
 							</div>
 							<h4 class="skill-name">Java</h4>
 							<div class="level">Beginner, 1 year</div>
-							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-								Cum sociis natoque penatibus et magnis dis parturient</div>
+							<div class="desc"></div>
 						</div>
 						<!--//item-inner-->
 					</div>
@@ -360,15 +340,13 @@
 					<div class="item col-12 col-md-4">
 						<div class="item-inner">
 							<div class="chart-easy-pie text-center">
-								<div class="chart-theme-1 chart" data-percent="30">
-									<span>30</span>%
+								<div class="chart-theme-1 chart" data-percent="10">
+									<span>10</span>%
 								</div>
 							</div>
 							<h4 class="skill-name">JavaScript & Angular</h4>
 							<div class="level">Beginner, 1 year</div>
-							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-								Cum sociis natoque penatibus et magnis dis parturient</div>
+							<div class="desc"></div>
 						</div>
 						<!--//item-inner-->
 					</div>
@@ -382,9 +360,7 @@
 							</div>
 							<h4 class="skill-name">PL/SQL</h4>
 							<div class="level">Intermediate, 2 years</div>
-							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-								Cum sociis natoque penatibus et magnis dis parturient</div>
+							<div class="desc"></div>
 						</div>
 						<!--//item-inner-->
 					</div>
@@ -398,9 +374,7 @@
 							</div>
 							<h4 class="skill-name">R</h4>
 							<div class="level">Intermediate, 2 years</div>
-							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-								Cum sociis natoque penatibus et magnis dis parturient</div>
+							<div class="desc"></div>
 						</div>
 						<!--//item-inner-->
 					</div>
@@ -414,9 +388,7 @@
 							</div>
 							<h4 class="skill-name">Python</h4>
 							<div class="level">Intermediate, 2 years</div>
-							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-								Cum sociis natoque penatibus et magnis dis parturient</div>
+							<div class="desc"></div>
 						</div>
 						<!--//item-inner-->
 					</div>
@@ -430,9 +402,7 @@
 							</div>
 							<h4 class="skill-name">SAS</h4>
 							<div class="level">Beginner, 1 year</div>
-							<div class="desc">Lorem ipsum dolor sit amet, consectetuer
-								adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-								Cum sociis natoque penatibus et magnis dis parturient</div>
+							<div class="desc"></div>
 						</div>
 						<!--//item-inner-->
 					</div>
@@ -459,82 +429,7 @@
 		</section>
 		<!--//skills-section-->
 
-		<section id="testimonials-section"
-			class="testimonials-section section">
-			<h2 class="section-title">Testimonials</h2>
-
-			<div id="testimonials-carousel"
-				class="testimonials-carousel carousel slide" data-interval="8000">
-
-				<!-- Indicators -->
-				<ol class="carousel-indicators">
-					<li data-target="#testimonials-carousel" data-slide-to="0"
-						class="active"></li>
-					<li data-target="#testimonials-carousel" data-slide-to="1"></li>
-					<li data-target="#testimonials-carousel" data-slide-to="2"></li>
-				</ol>
-
-				<!-- Wrapper for slides -->
-				<div class="carousel-inner">
-					<div class="item carousel-item active">
-						<blockquote class="quote">
-							<i class="fa fa-quote-left"></i>
-							<p>James is an excellent software engineer and he is
-								passionate about what he does. Lorem ipsum dolor sit amet,
-								consectetuer adipiscing elit. Suspendisse porttitor metus eros.</p>
-						</blockquote>
-						<div class="source">
-							<div class="name">Rob Olson</div>
-							<div class="position">Product Manager, Apple</div>
-						</div>
-						<!--//source-->
-
-					</div>
-					<!--//item-->
-					<div class="item carousel-item">
-						<blockquote class="quote">
-							<p>
-								<i class="fa fa-quote-left"></i> Sed massa leo, aliquet non
-								velit eu, volutpat vulputate odio. Interdum et malesuada fames
-								ac ante ipsum primis in faucibus. Suspendisse porttitor metus
-								eros, ut fringilla nulla auctor a.
-							</p>
-
-						</blockquote>
-						<div class="source">
-							<div class="name">Christina Jensen</div>
-							<div class="position">Senior Developer, Twitter</div>
-						</div>
-						<!--//source-->
-
-					</div>
-					<!--//item-->
-					<div class="item carousel-item">
-						<blockquote class="quote">
-							<p>
-								<i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet,
-								consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-								Aenean massa. Cum sociis natoque penatibus et magnis dis
-								parturient montes
-							</p>
-						</blockquote>
-						<div class="source">
-							<div class="name">Austin Ward</div>
-							<div class="position">CEO, Startup Hub</div>
-						</div>
-						<!--//source-->
-					</div>
-					<!--//item-->
-
-				</div>
-				<!--//carousel-inner-->
-			</div>
-			<!--//testimonials-carousel-->
-
-		</section>
-		<!--//section-->
-
-
+		<!-- Portfolio Section -->
 		<section id="portfolio-section" class="portfolio-section section">
 			<h2 class="section-title">Portfolio</h2>
 			<ul id="filters" class="filters clearfix">
@@ -544,165 +439,122 @@
 			</ul>
 			<!--//filters-->
 			<div class="items-wrapper isotope row">
-				<div class="item frontend col-lg-6 col-6">
-					<div class="item-inner" style="min-height: 420px;">
+				<div class="item frontend col-lg-3 col-6">
+					<div class="item-inner">
 						<figure class="figure">
-							<img class="img-fluid" src="" alt="" />
+							<img class="img-fluid"
+								src="assets/images/portfolio/portfolio-1.jpg" alt="" />
 						</figure>
 						<div class="content text-left">
 							<h3 class="sub-title">
-								<a href="#">Kosovo Data Analysis</a>
+								<a href="#">Kosovo Migration Analysis</a>
 							</h3>
-							<div class="meta">
-								<u>R & R Markdown:</u>
-								<p>The goal of this analysis is to provide evidence in favor
-									of or against the argument that the NATO bombing campaign
-									caused a large number of individuals to flee their homes and
-									country. The data sets used in this analysis were obtained from
-									the HRDAG website at https://hrdag.org/kosovo-data/. The data
-									consists of several migration data sets along with NATO
-									airstrike activity, KLA activity and pcodes for various
-									municipalities.</p>
+							<div class="meta">R & R Markdown</div>
+							<div class="action">
+								<a href="#">View on Github</a>
 							</div>
 						</div>
 						<!--//content-->
-
-						<div class="action"
-							style="bottom: 30px; left: 30px; position: absolute;">
-							<a href="https://github.com/RichardBlankenhorn/Kosovo_Migration"
-								style="color: white" target="_blank">View on Github</a>
-						</div>
-					</div>
-
-					<!--//item-inner-->
-				</div>
-				<!--//item-->
-				<div class="item backend col-lg-6 col-6">
-					<div class="item-inner" style="min-height: 420px;">
-						<figure class="figure">
-							<img class="img-fluid" src="" alt="" />
-						</figure>
-						<div class="content text-left">
-							<h3 class="sub-title">
-								<a href="#">Stock Tweet Analysis</a>
-							</h3>
-							<div class="meta">
-								<u>Python:</u>
-								<p>The goal of this project was to conduct sentiment
-									analysis from tweets related to Bank of America Stock. The
-									tweets were read in from a JSON file and organized in to a list
-									of dictionaries. The date/time, content and user-assigned
-									sentiment were extracted from each tweet. Sentiment analysis
-									was conducted for tweets in which there was no user-assigned
-									sentiment by comparing the number of positive versus negative
-									words in each tweet. Tweets were then organized in to positive,
-									negative and neutral dictionaries and then visualized through
-									Matplotlib pie charts and line charts.</p>
-							</div>
-
-						</div>
-						<!--//content-->
-						<div class="action"
-							style="bottom: 30px; left: 30px; position: absolute;">
-							<a
-								href="https://github.com/RichardBlankenhorn/stock_tweet_analysis"
-								style="color: white" target="_blank">View on Github</a>
-						</div>
+						<a class="link-mask" href="#"></a>
 					</div>
 					<!--//item-inner-->
 				</div>
 				<!--//item-->
-				<div class="item backend frontend col-lg-6 col-6">
-					<div class="item-inner" style="min-height: 420px;">
+				<div class="item frontend col-lg-3 col-6">
+					<div class="item-inner">
 						<figure class="figure">
-							<img class="img-fluid" src="" alt="" />
+							<img class="img-fluid"
+								src="assets/images/portfolio/portfolio-2.jpg" alt="" />
 						</figure>
 						<div class="content text-left">
 							<h3 class="sub-title">
-								<a href="#">IMDB Web Scrapping</a>
-							</h3>
-							<div class="meta">
-								<u>Python:</u>
-								<p>In this project, I wrote a program using Python to
-									generate URLs for the IMDB web site based upon a yearly range
-									and number of movies (user input). The details of these movies
-									were then extracted from these URLs and added to a JSON file
-									and a CSV file. This program utilizes the BeautifulSoup package
-									in Python.</p>
-							</div>
-						</div>
-						<!--//content-->
-						<div class="action"
-							style="bottom: 30px; left: 30px; position: absolute;">
-							<a href="https://github.com/RichardBlankenhorn/imdb_web_scraping"
-								style="color: white" target="_blank">View on Github</a>
-						</div>
-					</div>
-					<!--//item-inner-->
-				</div>
-				<!--//item-->
-				<div class="item frontend col-lg-6 col-6">
-					<div class="item-inner" style="min-height: 420px;">
-						<figure class="figure">
-							<img class="img-fluid" src="" alt="" />
-						</figure>
-						<div class="content text-left">
-							<h3 class="sub-title">
-								<a href="#">What's On Tap</a>
-							</h3>
-							<div class="meta">
-								<u>Java, Bootstrap, SpringMVC:</u>
-								<p>What's On Tap is a crowd-sourced app that allows
-									registered users to add breweries/beers and add/update/delete
-									comments for listed breweries and beers. In addition, Admin
-									privileges were provided in order to delete breweries/beers and
-									to delete or update comments from all users. This project
-									utilized a Java, JPA, SpringMVC, Bootstrap, Gradle & Maven,
-									MySQL and Amazon Web Services.</p>
-							</div>
-						</div>
-						<!--//content-->
-						<div class="action"
-							style="bottom: 30px; left: 30px; position: absolute;">
-							<a href="https://github.com/RichardBlankenhorn/imdb_web_scraping"
-								style="color: white" target="_blank">View on Github</a>
-						</div>
-					</div>
-					<!--//item-inner-->
-				</div>
-				<!--//item-->
-				<div class="item backend col-lg-6 col-6">
-					<div class="item-inner" style="min-height: 420px;">
-						<figure class="figure">
-							<img class="img-fluid" src="" alt="" />
-						</figure>
-						<div class="content text-left">
-							<h3 class="sub-title">
-								<a href="#">Project Lorem Ipsum</a>
+								<a href="#">IMBD Web Scrapping</a>
 							</h3>
 							<div class="meta">Python</div>
+							<div class="action">
+								<a href="#">View on Github</a>
+							</div>
 						</div>
 						<!--//content-->
-						<div class="action"
-							style="bottom: 30px; left: 30px; position: absolute;">
-							<a
-								href="https://github.com/RichardBlankenhorn/stock_tweet_analysis"
-								style="color: white" target="_blank">View on Github</a>
-						</div>
+						<a class="link-mask" href="#"></a>
 					</div>
 					<!--//item-inner-->
 				</div>
 				<!--//item-->
-				<div class="item backend col-lg-6 col-6">
-					<div class="item-inner" style="min-height: 420px;">
+				<div class="item frontend col-lg-3 col-6">
+					<div class="item-inner">
 						<figure class="figure">
-							<img class="img-fluid" src="" alt="" />
+							<img class="img-fluid"
+								src="assets/images/portfolio/portfolio-3.jpg" alt="" />
 						</figure>
 						<div class="content text-left">
 							<h3 class="sub-title">
-								<a href="#">Project Lorem Ipsum</a>
+								<a href="#">Tweet Sentiment Analysis</a>
 							</h3>
-							<div class="meta">JavaScript</div>
+							<div class="meta">Python</div>
+							<div class="action">
+								<a href="#">View on Github</a>
+							</div>
+						</div>
+						<!--//content-->
+						<a class="link-mask" href="#"></a>
+					</div>
+					<!--//item-inner-->
+				</div>
+				<!--//item-->
+				<div class="item backend col-lg-3 col-6">
+					<div class="item-inner">
+						<figure class="figure">
+							<img class="img-fluid"
+								src="assets/images/portfolio/portfolio-4.jpg" alt="" />
+						</figure>
+						<div class="content text-left">
+							<h3 class="sub-title">
+								<a href="#">Roman Numeral Conversion</a>
+							</h3>
+							<div class="meta">Java</div>
+							<div class="action">
+								<a href="#">View on Github</a>
+							</div>
+						</div>
+						<!--//content-->
+						<a class="link-mask" href="#"></a>
+					</div>
+					<!--//item-inner-->
+				</div>
+				<!--//item-->
+				<div class="item backend col-lg-3 col-6">
+					<div class="item-inner">
+						<figure class="figure">
+							<img class="img-fluid"
+								src="assets/images/portfolio/portfolio-5.jpg" alt="" />
+						</figure>
+						<div class="content text-left">
+							<h3 class="sub-title">
+								<a href="#">Football Profiles CRUD</a>
+							</h3>
+							<div class="meta">Java</div>
+							<div class="action">
+								<a href="#">View on Github</a>
+							</div>
+						</div>
+						<!--//content-->
+						<a class="link-mask" href="#"></a>
+					</div>
+					<!--//item-inner-->
+				</div>
+				<!--//item-->
+				<div class="item backend col-lg-3 col-6">
+					<div class="item-inner">
+						<figure class="figure">
+							<img class="img-fluid"
+								src="assets/images/portfolio/portfolio-6.jpg" alt="" />
+						</figure>
+						<div class="content text-left">
+							<h3 class="sub-title">
+								<a href="#">What's On Tap CRUD</a>
+							</h3>
+							<div class="meta">Java</div>
 							<div class="action">
 								<a href="#">View on Github</a>
 							</div>
@@ -714,16 +566,17 @@
 				</div>
 				<!--//item-->
 
-				<div class="item backend col-lg-6 col-6">
-					<div class="item-inner" style="min-height: 420px;">
+				<div class="item backend col-lg-3 col-6">
+					<div class="item-inner">
 						<figure class="figure">
-							<img class="img-fluid" src="" alt="" />
+							<img class="img-fluid"
+								src="assets/images/portfolio/portfolio-7.jpg" alt="" />
 						</figure>
 						<div class="content text-left">
 							<h3 class="sub-title">
-								<a href="#">Project Lorem Ipsum</a>
+								<a href="#">Xtreme 9 Lives REST</a>
 							</h3>
-							<div class="meta">JavaScript</div>
+							<div class="meta">Java</div>
 							<div class="action">
 								<a href="#">View on Github</a>
 							</div>
@@ -735,16 +588,17 @@
 				</div>
 				<!--//item-->
 
-				<div class="item backend col-lg-6 col-6">
-					<div class="item-inner" style="min-height: 420px;">
+				<div class="item frontend backend col-lg-3 col-6">
+					<div class="item-inner">
 						<figure class="figure">
-							<img class="img-fluid" src="" alt="" />
+							<img class="img-fluid"
+								src="assets/images/portfolio/portfolio-8.jpg" alt="" />
 						</figure>
 						<div class="content text-left">
 							<h3 class="sub-title">
-								<a href="#">Project Lorem Ipsum</a>
+								<a href="#">Logistic Regression</a>
 							</h3>
-							<div class="meta">JavaScript</div>
+							<div class="meta">Python</div>
 							<div class="action">
 								<a href="#">View on Github</a>
 							</div>
@@ -765,8 +619,8 @@
 		<section id="contact-section" class="contact-section section">
 			<h2 class="section-title">Get in Touch</h2>
 			<div class="intro">
-				<img class="profile-image" src="assets/images/profile-image.png"
-					alt="">
+				<img class="profile-image" src="images/richard.jpeg" alt=""
+					style="border-radius: 50%;">
 				<div class="dialog">
 					<p>I'm currently taking on freelance work. Lorem ipsum dolor
 						sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
@@ -778,32 +632,26 @@
 						<strong>I can help with the following:</strong>
 					</p>
 					<ul class="list-unstyled service-list">
-						<li><i class="fa fa-check" aria-hidden="true"></i> App
-							development with ReactJS</li>
-						<li><i class="fa fa-check" aria-hidden="true"></i> Front-end
-							development with AngularJS</li>
-						<li><i class="fa fa-check" aria-hidden="true"></i> Back-end
-							development with Django/Python</li>
-						<li><i class="fa fa-check" aria-hidden="true"></i> UI
-							development</li>
-						<li><i class="fa fa-check" aria-hidden="true"></i> UX
-							prototyping</li>
+						<li><i class="fa fa-check" aria-hidden="true"></i>Back End
+							Development with Java</li>
+						<li><i class="fa fa-check" aria-hidden="true"></i> Front End
+							Development with Javascript, Angular and HTML/CSS</li>
+						<li><i class="fa fa-check" aria-hidden="true"></i> Data
+							Analytics with R, Python or SAS</li>
+						<li><i class="fa fa-check" aria-hidden="true"></i>
+							Information Retrieval with PL/SQL and MySQL</li>
 					</ul>
 					<p>
-						Drop me a line at <a href="mailto:someone@example.com">james.doe@website.com</a>
-						or call me at <a href="tel:01234567890">0123 456 7890</a>
+						Drop me a line at <a href="mailto:someone@example.com">rsbnq6@yahoo.com</a>
+						or call me at <a href="tel:01234567890">314-712-2355</a>
 					</p>
 					<ul class="social list-inline">
 						<li class="list-inline-item"><a href="#"><i
 								class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 						<li class="list-inline-item"><a href="#"><i
-								class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i
-								class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+								class="fa fa-facebook" aria-hidden="true"></i></a></li>
 						<li class="list-inline-item"><a href="#"><i
 								class="fa fa-github-alt" aria-hidden="true"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i
-								class="fa fa-skype" aria-hidden="true"></i></a></li>
 					</ul>
 					<!--//social-->
 				</div>
